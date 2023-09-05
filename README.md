@@ -38,4 +38,6 @@ Este microservicio está diseñado para gestionar información relacionada con p
 - 3.- Simulando fallas y latencia 
 
 ![image](https://github.com/joanvasquez21/microservices-producto-items-circuitbreaker/assets/70104624/c44ea85f-05ad-44a8-b93a-3870511a2a44)
+- 4.- Personalizando parametro del CircuitBreaker
+ ![image](https://github.com/joanvasquez21/microservices-producto-items-circuitbreaker/assets/70104624/a26dc34c-662b-48e3-9d9e-ee6bc40f8b26)
 
