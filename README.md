@@ -40,4 +40,6 @@ Este microservicio está diseñado para gestionar información relacionada con p
 ![image](https://github.com/joanvasquez21/microservices-producto-items-circuitbreaker/assets/70104624/c44ea85f-05ad-44a8-b93a-3870511a2a44)
 - 4.- Personalizando parametro del CircuitBreaker en la clase configuracion
  ![image](https://github.com/joanvasquez21/microservices-producto-items-circuitbreaker/assets/70104624/a26dc34c-662b-48e3-9d9e-ee6bc40f8b26)
+- 5.- Configurando Resilience4j en application.yml
+![image](https://github.com/joanvasquez21/microservices-producto-items-circuitbreaker/assets/70104624/cd7abf30-b8e9-4a5e-adec-0fb241c10dd6)
 
