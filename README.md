@@ -36,3 +36,6 @@ Este microservicio está diseñado para gestionar información relacionada con p
  en el return se está intentando ejecutar itemService.findById(id, cantidad) es una llamada a un servicio que busca un elemento por su id y cantidad.
  si la llamada falla o experimenta un error, se ejecutará metodoAlternativo2(id, cantidad) en su lugar.
 3.- Simulando fallas y latencia 
+
+![image](https://github.com/joanvasquez21/microservices-producto-items-circuitbreaker/assets/70104624/c44ea85f-05ad-44a8-b93a-3870511a2a44)
+
